@@ -5,14 +5,18 @@
 # More Projects
 
 More Open Source designs initiated by DM & SCUTTLE team:
+More Open Source designs:
+* [OpenAir](https://qr.net/openairproject)
+* [OpenArm](https://qr.net/openarmproject)
+* [OpenBox](https://qr.net/openboxproject)
+* [OpenJar](https://qr.net/openjarproject)
+* [OpenLab](https://qr.net/openlabproject)
+* [OpenME](https://qr.net/openmeproject)
+* [OpenSpin](https://qr.net/openspinproject)
 
-* [SCUTTLE Nigeria](https://bit.ly/scuttleNigeria1)
-* [Mechatronics Resources](https://bit.ly/openmechatronics)
-* [OpenArm](https://bit.ly/openarm)
-* [OpenJar](https://bit.ly/openjarproject_v1)
-* [OpenBox](https://bit.ly/openboxproject)
-* [OpenSpin](https:/bit.ly/openspinproject)
-* [OpenAir](https://bit.ly/openairproject)
-* [OpenLab](https://bit.ly/openlabproject)
+# Content by David M:
+* [David's YouTube](https://www.youtube.com/@davidmalawey)
 
-* [David's YouTube Channel](https://www.youtube.com/@davidmalawey)
+# Robotics Content:
+* [SCUTTLE Robotics](https://www.scuttlerobot.org)
+* more links on the way...
