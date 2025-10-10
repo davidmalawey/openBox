@@ -43,8 +43,12 @@ _(img1) Design your own electronics box, as usual with 3d printing but use stand
 * ![use_desk1](img/use_desk1.jpg)
 * ![use desk2](img/usedesk2.jpg)
 
-## Embedded Electronics
-We will feature arduino & other MCU based projects but here's the start, with a project for car adapter & embedded power control found in a PD adapter.
+## Electronics
+We are marching towards electronics integration one step at a time.  I built the below "handymount" because it merges two worlds: home electrical circuits and industrial electronics.  DIN rail is where automation experts design all of their parts to fit.  It has a massive ecosystem of compatible parts.  And the handybox will never go out of style.  Now you can fit a $0.77 AC socket wherever you have DIN rail and AC lines, and the attachment between them is designed in CAD.  Next up: to make arduino & other MCU based projects.
+
+* ![din mount bracket](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/6cb35d3681daa2a8277679868fdc6afa/original.jpg)
+* ![din mount bracket in use](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/172e093a41ca89a2b01bc5f8ab06374a/original.jpg)
+* ![din mount bracket image3](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/c397021bfe7a303dc420d1edc8d0b6a9/original.jpg)
 
 ## DC Power
 
