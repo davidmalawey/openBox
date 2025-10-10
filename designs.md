@@ -1,28 +1,25 @@
-# Design
+# Designs
 The purpose of Handybox is to benefit several types of projects with one standard part, accompanied by several other standards that have a well-established ecosystem and many available components near you at brick-and-mortar stores.
 I Hope you benefit from the concepts here - even without building any handybox designs you will find some techniques that save time in CAD, prototyping, wiring, or creating new concepts for designs.
 
-# Videos
+## Videos
 To be populated as I create videos to explain features.
 
-## Build a Car Adapter
+**Car Adapter**
 
 <iframe width="703" src="https://www.youtube.com/embed/VLrEtrU10ow" title="Build a DIY power supply for powering electronics - using openBox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-# Features
+## Features
 A technical review for specific engineering features, listed by purpose
 
 ## Floor Liner
 
-Control the height of racked items or protect your parts. For items standing in the box used as a rack, we can adjust heights without any 3D printing changes.  Alternately, we may want to line the base to prevent contact between brittle metal and the box floor.  This can be achieved in two minutes with some foam or other lining material.  For my example, I wanted to offset the floor for all of the 3rd row taps, due to their short length of shank, they could fall down and become hard to grab.  As needed, just slice a piece of foam or add more layers to offset the height of a row of bits.  Also, this keeps bits from chipping if they drop against the steel box.
+When you put the box to use, it can be easily customized. Use a floor liner to control the height of racked items or protect your parts. For items standing in the box used as a rack, we can adjust heights without any 3D printing changes.  Alternately, we may want to line the base to prevent contact between brittle metal and the box floor.  This can be achieved in two minutes with some foam or other lining material.  For my example, I wanted to offset the floor for all of the 3rd row taps, due to their short length of shank, they could fall down and become hard to grab.  As needed, just slice a piece of foam or add more layers to offset the height of a row of bits.  Also, this keeps bits from chipping if they drop against the steel box.
 
 ![box floor liner image](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/71db1b41ccb4b189cb514e836513f97c/original.jpg) 
 
-# Parts
-Components, methods, and considerations for organizing wires in projects.  It's best to watch this before you design, so you can discover parts to integrate in your project plans.
-
-## Main Parts
-Main components around which the other parts are designed.
+## Parts
+Components, methods, and considerations for organizing wires in projects.  It's best to watch this before you design, so you can discover parts to integrate in your project plans. These are main components around which the other parts are designed.
 
 * EMT Conduit
 * Handybox electrical boxes with 1/2in knockout holes
@@ -63,7 +60,7 @@ The hub connects a bearing to the handybox floor, and this design features the o
 - ![hub CAD image, assembly](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/20a22f48b02a1b4dba5f0afc02ead7f7/original.JPG)
 - ![hub with bearing, photo](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/17ec3cad3c77350a9c5131e5d68c04a2/original.jpg)
 
-**cover**
+**Cover**
 One model for many purposes.  This model branches into letters A through G so far (2025.10) but I skipped a few that are less common needs.  I produced images for most variants to date.
 * cover B fits the small shaft found in all the dremel tools and 1/8 inch rotary devices, an extremely common shank size.
 * cover E gives a flat surface sectioned into smaller areas for enhanced printing without warping, in ABS.
@@ -83,19 +80,18 @@ One model for many purposes.  This model branches into letters A through G so fa
 - ![cover J for panel insert](img/img_coverJ1.jpg)
 
 
-# Benchmarks
-Every good design begins with an evaluation stage.  If you want to invent something that helps the community, start by searching for benchmarks. 
-* existing products that perform **the function** you want
-* existing parts that contain **the geometry** you'll design
-* industrial parts that are often more robust than consumer goods
-* unrelated market categories which solve equivalent functions
+## Benchmarks
+**Catalogs**
+It is important for a designer to study existing catalogs, to understand the ecosystem. I've used a couple of catalogs to answer questions like the following:
+* is there an existing product that perform **the function** I want?
+* from commercial parts, is there **geometry** I should imitate? Can I learn from these parts?
+* what portion of the commercial steel part demands steel for my application?  Which design elements are OK for 3D printing? 
+* how are the catalogs organized and variations arranged?  Can I learn and borrow decisions for my design array?
+* can I discover the highest volume parts via the highlighted catalog parts?  Then, does this inform about which designs are most needed?
 
-In the benchmarking process for an OpenBox-related design, start with the catalog & technical drawings below.
+Every good design begins with an evaluation stage and benchmarking. If you want to invent something that helps the community, please start with benchmarks.  In the benchmarking process for an OpenBox-related design, start with the catalog & technical drawings below.
 
-
-## Design Catalog
-
-### USA Handy Box Specifications by Brands
+**USA Handy Box Specifications by Brands**
 
 #### 666 CUS by RACO (4” x 2” x 1-7/8”)
 
