@@ -63,6 +63,25 @@ The hub connects a bearing to the handybox floor, and this design features the o
 - ![hub CAD image, assembly](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/20a22f48b02a1b4dba5f0afc02ead7f7/original.JPG)
 - ![hub with bearing, photo](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/17ec3cad3c77350a9c5131e5d68c04a2/original.jpg)
 
+**cover**
+One model for many purposes.  This model branches into letters A through G so far (2025.10) but I skipped a few that are less common needs.  I produced images for most variants to date.
+* cover B fits the small shaft found in all the dremel tools and 1/8 inch rotary devices, an extremely common shank size.
+* cover E gives a flat surface sectioned into smaller areas for enhanced printing without warping, in ABS.
+* cover E has a second variety with sockets, but it resides in the same .sldprt model as a configuration.
+* cover F features hex-shaped holes for insertion of hex driver bits.  The main configuration has a hole depth for the ever-common 1 or 2 inch height of these bits.
+* cover J is for holding an instrument panel and features a raised boss, which effectively adds volume to the box.  This particular design fits a DC motor driver and it's expected that many users will have rectangles, for which you can adjust the size with a couple of dimensions.
+  
+- ![cover B](img/img_coverB1.jpg)
+- ![cover b 2](img/img_coverB2.jpg)
+- ![cover e topside](img/img_coverE.jpg)
+- ![cover e underside](img/img_coverE_flat.jpg)
+- ![cover e sockets version](img/img_coverE_sockets.jpg)
+- ![cover f for hex](img/img_coverF.jpg)
+- ![cover f2](img/img_coverF2.jpg)
+- ![cover f3 section](img/img_coverF3.jpg)
+- ![cover J for panel insert](img/img_coverJ1.jpg)
+- ![cover J for panel insert](img/img_coverJ1.jpg)
+
 
 # Benchmarks
 Every good design begins with an evaluation stage.  If you want to invent something that helps the community, start by searching for benchmarks. 
