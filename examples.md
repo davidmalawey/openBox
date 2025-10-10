@@ -78,4 +78,8 @@ Combine the handybox with 3/4in steel conduit for the fastest custom hanging rod
 * ![use case structural, image](img/use_structure2.jpg)
 * ![use case structural, image](img/use_structure3.jpg)
 
+## Mechanical
+Utilize the rigidity, strength, and symmetry of the box to carry a load that moves.  This example demonstrates an articulating arm for a big patio fan, with minimal parts.  The fan can be moved by hand and hold steady while the fan cools you down.  Sometimes it's turned to blow sawdust out of my workspace and sometimes for keeping cool at the bbq.
 
+* ![use case fan1](img/use_fan1.jpg)
+* ![use case fan2](img/use_fan2.jpg)
