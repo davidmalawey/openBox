@@ -26,14 +26,13 @@ Below: (left) Overview of some tool holders made with HandyBox, for custom fitme
 Or, fasten the box to a composite pegboard with the compatible screws, and still reach the fastener when the openbox is loaded.
 Make a business card holder - this one has a wide section for related cards that don't fit regular business card width.
 
-* ![pegboard2](img/img_pegboard2.jpg)
-* ![bizcard1](img/img_bizcard1.jpg)
-
+- ![pegboard2](img/img_pegboard2.jpg)
+- ![bizcard1](img/img_bizcard1.jpg)
 
 ## AC Electrical
 For 120v or 240v appliances with custom wires or switches
 
-Design your own electronics box, as usual with 3d printing but use standard parts! (right)Switches with 22mm circle snap right into place.
+_(left) Design your own electronics box, as usual with 3d printing but use standard parts! (right)Switches with 22mm circle snap right into place._
 
 * ![switchbox1](img/img_switchbox1.jpg)
 * ![switchbox2](img/img_switchbox2.jpg)
