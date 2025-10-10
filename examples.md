@@ -7,10 +7,9 @@ This gallery showcases a variety of examples, including designs and configuratio
 1.	**Browse for Ideas**: Explore the gallery to find designs or workflows that match your needs.
 2.	**Dive Deeper**: For detailed instructions or configurations, check the linked documentation and other sections.
 3.	**Ask Questions**: If you see something in the gallery that isn’t fully documented yet, feel free to reach out:
-- Leave a comment on (GrabCAD)[https://grabcad.com/library?page=1&time=all_time&sort=recent&query=openbox]
-- Ask in (David’s Discord community)(https://discord.com/channels/1309520786364567594/1314395386408079410).
+- Leave a comment on [GrabCAD](https://grabcad.com/library?page=1&time=all_time&sort=recent&query=openbox)
+- Ask in [David’s Discord community](https://discord.com/channels/1309520786364567594/1314395386408079410).
 - Post an issue in the GitHub repository.
-
 
 ## Organizers
 Designs for holding your toos & equipment & securing them where needed.
@@ -27,6 +26,7 @@ Or, fasten the box to a composite pegboard with the compatible screws, and still
 Make a business card holder - this one has a wide section for related cards that don't fit regular business card width.
 
 - ![pegboard2](img/img_pegboard2.jpg)
+- ![bizcard1](img/img_bizcard1.jpg)
 - ![bizcard1](img/img_bizcard1.jpg)
 
 ## AC Electrical
