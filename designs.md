@@ -80,6 +80,15 @@ One model for many purposes.  This model branches into letters A through G so fa
 - ![cover J for panel insert](img/img_coverJ1.jpg)
 
 
+**Octagon**
+This variety is modeled after Raco part number 8125, having octagon shape and holes for both 1/2 and 3/4inch conduit, the most common steel conduit sizes.  I made a very clean model in Solidworks for open sourcing.  This abstacts some details and gives the overall shape which is reliable enough to design mating parts.
+* Grab CAD for [octagon box](https://grabcad.com/library/octagonbox-1)
+
+_Photos below show the plain octagon box, and integration of a bearing hub.  The hub model is also posted on grabCAD and fits a common 608 bearing with 8mm ID._ 
+* ![linked image octagon box1](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/c9c166a4ac475c26c91e5991418ce1ca/original.JPG)
+* ![linked image octagon box2](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/5c05e83e79c97dc53cca70ca8001ef05/original.JPG)
+* ![linked image octagon box3](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/9366ce5543546b635158687a36a0c62e/original.jpg)
+
 ## Benchmarks
 **Catalogs**
 It is important for a designer to study existing catalogs, to understand the ecosystem. I've used a couple of catalogs to answer questions like the following:
