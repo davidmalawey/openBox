@@ -34,12 +34,14 @@ Make a business card holder - this one has a wide section for related cards that
 - ![bizcard1](img/img_bizcard1.jpg)
 
 ## AC Electrical
-For 120v or 240v appliances with custom wires or switches
+For 120v or 240v appliances with custom wires or switches.  See the 3rd and 4th photos showing front and back installation of switches, using the box and M6 fasteners to secure on aluminum extrusions.  We get a safe and rigid attachment for customizing the switches of the soldering desk appliances.  Check out [Openlab Project](qr.net/openlabproject) for more info about the soldering station.
 
-_(left) Design your own electronics box, as usual with 3d printing but use standard parts! (right)Switches with 22mm circle snap right into place._
+_(img1) Design your own electronics box, as usual with 3d printing but use standard parts! (img2)Switches with 22mm circle snap right into place._
 
 * ![switchbox1](img/img_switchbox1.jpg)
 * ![switchbox2](img/img_switchbox2.jpg)
+* ![use_desk1](img/use_desk1.jpg)
+* ![use desk2](img/usedesk2.jpg)
 
 ## Embedded Electronics
 We will feature arduino & other MCU based projects but here's the start, with a project for car adapter & embedded power control found in a PD adapter.
@@ -53,6 +55,11 @@ The Car Adapter converts a power tool battery to a cigarette lighter socket.  It
 * ![car adapter pic2](img/img_carAdapter2.JPG)
 * ![car adapter box](img/IMG_0158.jpeg)
 
+More photos from updated assembly designs below.  The power adapter setup as of 2025.10 connects to a ridgid battery, using the handybox and a printable device called "terminal v2" which snaps into the Ridgid battery.  The anderson connector is added to the front port, and the same connector on a pigtail.  Shown below, a larger square handybox with a flat panel and a 30A ammeter.  If you purchase one of the thousands of meters online with square interfaces, a quick adjustment of the flat panel and a 3D print gets you a fully enclosed sensor box that can easily be adjusted for adding cords.
+
+- ![use dc power tools1](img/use_dc1.jpg)
+- ![use dc power tools2](img/use_dc2.jpg)
+- ![use dc power tools1](img/use_dc3.jpg)
 
 ## Cable Routing
 
@@ -62,5 +69,13 @@ _(left) handy bushing next to OTS part with similar function (right) handy bushi
 
 * ![bushing img1](img/img_bushing1.JPG)
 * ![bushing img2](img/img_bushing2.JPG)
+
+## Storage
+
+Combine the handybox with 3/4in steel conduit for the fastest custom hanging rod you've ever made.  The home improvement stores carry rigid connectors for straight and 90 degree angles, as shown in the last photo.  You can easily choose the orientation of the box that lets you fasten it to the wall with long screws. 
+
+* ![use case structural, image](img/use_structure1.jpg)
+* ![use case structural, image](img/use_structure2.jpg)
+* ![use case structural, image](img/use_structure3.jpg)
 
 
