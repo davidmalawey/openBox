@@ -1,9 +1,13 @@
-# Looking for inspiration or practical examples of how to use OpenBox? Start here!
+# Examples
+
+>
+> Looking for inspiration or practical examples of how to use OpenBox? Start here!
+>
 
 This gallery showcases a variety of examples, including designs and configurations, to help you get started. Some examples are fully documented, while others provide a visual overview for quick reference. The gallery is regularly updated as new items are created and shared.
 
-### Steps to Get Started:
-
+### Get Started:
+_steps to get you started in designing_
 1.	**Browse for Ideas**: Explore the gallery to find designs or workflows that match your needs.
 2.	**Dive Deeper**: For detailed instructions or configurations, check the linked documentation and other sections.
 3.	**Ask Questions**: If you see something in the gallery that isn’t fully documented yet, feel free to reach out:
