@@ -36,14 +36,33 @@ The large box is uploaded as a "configuration" of the solidworks model, in grabC
 Mount your boxes to your DIN rail, multiple orientations & box sizes. This bracket is parametric, with configurations shown in the animated GIF. The narrow option has 1-in spacing for the 1-gang box and the wide option matches the 1.5in spacing of the square boxes found in local stores.
 
 **Bushing**
-A feature for electrical and for mechanical function
+A feature for electrical and mechanical functions. Version 1 is adapted for fixing anderson connectors into the wall of a panel. It can be adjusted for different hole sizes, or different center features.  You may wish to use it as a grommet, or adapter for a 10mm pushbutton, or 100 other items.  The idea is that a new user gains a new function but retains the investment of the code behind the nicely made parametric part.  The feature tree is easy to navigate, so you may update the design without knowledge of all the original design considerations. (just like open source software).
 
-* ![handybox](https://github.com/user-attachments/assets/0e74d687-8dab-4486-bea9-78ceadb83627)
-* ![handyMount](https://github.com/user-attachments/assets/920e28c6-80b8-4301-968d-de2845a30da9)
+* ![img handybox large](https://github.com/user-attachments/assets/0e74d687-8dab-4486-bea9-78ceadb83627)
+* ![img handyMount image](https://github.com/user-attachments/assets/920e28c6-80b8-4301-968d-de2845a30da9)
 * ![img_eBushing1](https://github.com/user-attachments/assets/84268de3-2954-4cb2-bd8d-b86bb7608e46)
 
+**Reducer**
+This design allows for your choice of machine screw to fasten into the large 22mm holes in the plate steel.  The STEP model features an M6 fastener size with hex nut. But if you access the SOLIDWORKS model you can easily modify it for any size.  The post includes one variation as an example of how to pivot the design for new shapes.  It's designed for a thicker steel with a shorter hoop and a larger M8 bolt. 
 
-Version 1 is adapted for fixing anderson connectors into the wall of a panel. It can be adjusted for different hole sizes, or different center features.  You may wish to use it as a grommet, or adapter for a 10mm pushbutton, or 100 other items.  The idea is that a new user gains a new function but retains the investment of the code behind the nicely made parametric part.  The feature tree is easy to navigate, so you may update the design without knowledge of all the original design considerations. (just like open source software).
+- ![img reducer assembly sectioned](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/91eedccf81eb2700d3b21cf090a410d0/original.jpg)
+- ![img reducer assembly 2](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/bf1a57fef2f3299b50b64ec13ba34092/original.jpg)
+- ![img reducer variation](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/18ac54326f80196494b9087c708e375e/original.jpg)
+
+The next photos show the reducer used in assembly.  (left) you can pass a 6mm shaft through the reducer and it fits concentric with the original box holes. (right) with a screw and nuts clamping on the reducer, it is ready to withstand additional jobs like an axial load.
+
+- ![img reducer shaft](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/7ddc9cd247eba798792123a01b9c7df0/original.jpg)
+- ![img perpendicularity](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/db0eed128355d71af3a27b6074d867ea/original.jpg)
+- ![img load bearing](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/220be329b34217bfc16bc8b06a401091/original.jpg)
+
+**hub**
+The hub connects a bearing to the handybox floor, and this design features the octagon shaped box.  All of the large boxes (square and octagon) feature a standard set of holes at the floor which are ready to mount a feature like this.  Use this hub to pass a shaft through the center of the box for a symmetric rotating assembly.
+* [get the hub model here](https://grabcad.com/library/hub_0-1])
+
+- ![hub photo, assembly](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/1a4d9a8ec5c7cb4b650467375a733be5/original.jpg)
+- ![hub CAD image, assembly](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/20a22f48b02a1b4dba5f0afc02ead7f7/original.JPG)
+- ![hub with bearing, photo](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/17ec3cad3c77350a9c5131e5d68c04a2/original.jpg)
+
 
 # Benchmarks
 Every good design begins with an evaluation stage.  If you want to invent something that helps the community, start by searching for benchmarks. 
