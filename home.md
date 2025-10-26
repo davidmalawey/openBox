@@ -49,7 +49,7 @@ The catalog also includes PDFs drawings obtained from manufacturing highlighting
 
 - ![interface, benchtop socket](img/use_desk2.jpg)
 - ![interface, ridgid corner](img/use_structure1.jpg)
-- ![interface, bits organizer on pegboard](img_pegboard2.jpg)
+- ![interface, bits organizer on pegboard](img/img_pegboard2.jpg)
 
 ## Contribute
 
