@@ -53,7 +53,7 @@ Every good design begins with an evaluation stage and benchmarking. If you want 
 **USA Handy Box Specifications by Brands**
 
 ## Data
-Understanding the data - this section aims to enable you to perform research quickly and understand the context of various manufacturer-provided documents.  Find simple definitions below, followed by images of samples.
+Understand the data provided with commercial parts. This section aims to enable you to perform research quickly and understand the context of various manufacturer-provided documents.  Find simple definitions below, followed by images of samples.
 
 **sell sheet** is usually a 1-pager with imagery of the application of the product & important specificatons for the customer.
 **customer drawing** is a mechanical drawing which includes relevant specs for _integration_ of the part, rather than _manufacturing_ of the part.
@@ -65,15 +65,15 @@ Understanding the data - this section aims to enable you to perform research qui
 - ![spec sheet image](img/data_specSheet.jpg)
 - ![catalog page image](img/data_catalogPage.jpg)
 
-#### 666 CUS by RACO (4” x 2” x 1-7/8”)
-
-![666 CUS Manufacturer Image](https://do1jvmih5t6vs.cloudfront.net/userfiles/ad/large/raco_666.jpg)
+### Raco Rectangle Box
 
 - 4 in. x 2 in. Handy Box, Drawn, 1-7/8 in. Deep with Seven 1/2 & One 3/4 in. KO's, Raised Ground
-- [download (100mb)](https://lobfile.com/file/TMfW62ny.pdf)
-- [img_technicalData1](https://github.com/user-attachments/assets/8c5ebed6-eeb9-4228-b587-385ee21200a7) _see material properties, dimensions, & more_
-- [image techsheet](img/img_racoData1.jpg 'class=image-25') _technical sheets published by manufacturers_
-- [img_drawing](https://github.com/user-attachments/assets/256211c1-f47f-49f2-863e-14f5fdbfc8e6) _dimensional drawings by manufacturers (Raco & more)_
+- [download (100Mb)](https://lobfile.com/file/TMfW62ny.pdf)
+
+
+- ![img_technicalData1](https://github.com/user-attachments/assets/8c5ebed6-eeb9-4228-b587-385ee21200a7) _see material properties, dimensions, & more_
+- ![image techsheet](img/img_racoData1.jpg 'class=image-25') _technical sheets published by manufacturers_
+- ![img_drawing](https://github.com/user-attachments/assets/256211c1-f47f-49f2-863e-14f5fdbfc8e6) _dimensional drawings by manufacturers (Raco & more)_
 
 We don't have a specific structure for posting data but as I accumulate useful drawings and reliable documentation behind the branded boxes (suchas Raco by Hubbel) I will upload the content for others to download.  At times, I markup a PDF with mechanical drawings to point out the key items instead of starting a document from scratch.
 
