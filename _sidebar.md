@@ -2,4 +2,4 @@
 - [Examples](examples)
 - [Downloads](downloads)
 - [Designs](designs)
-- [Links](externallinks)
+- [Links](links)
