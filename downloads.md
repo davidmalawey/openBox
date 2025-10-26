@@ -1,3 +1,5 @@
+While the "examples" tab focuses on an array of outcomes, this page focuses on the array of source components, array of functions.  It is a backbone for technical designers.
+
 ## CAD models
 _Links to open source CAD models_
 
@@ -5,12 +7,12 @@ You can find OpenBox-related CAD files by searching [“OpenBox” on GrabCAD](h
 
 In addition to the original contributions, GrabCAD also features various remixes and adaptations created by the global community. These include innovative modifications, such as HandyBox designs compatible with other countries’ standards, and other creative uses tailored to specific needs.
 
-**Models based on RACO no.666**
-This library is part of the HandyBox collection, featuring replicas of the RCO #666 Electrical Box. This widely available component, found in hardware stores across the United States, is specifically designed to be compatible with the OpenBox ecosystem. Along with the CAD files, the library includes data sheets and technical drawings, providing precise dimensions and detailed specifications. These resources ensure accuracy for seamless integration into your projects and offer valuable insights for customization or adaptation to various applications.
+**Basic Rectangle Box**
+The following This widely available component, found in hardware stores across the United States, is specifically designed to be compatible with the OpenBox ecosystem. Along with the CAD files, the library includes data sheets and technical drawings, providing precise dimensions and detailed specifications. These resources ensure accuracy for seamless integration into your projects and offer valuable insights for customization or adaptation to various applications.
 
-* RACO [#666 model on grabCAD](https://grabcad.com/library/handybox-1)
 * contains datasheet & CAD files
-* [handybox post](https://grabcad.com/library/handybox-1)
+* [handybox post](https://grabcad.com/library/handybox-1) using Raco model 666
+
 
 **OpenBox Cluster Post**
 * see CAD [models post here](https://grabcad.com/library/openbox-1)
@@ -50,15 +52,13 @@ It is important for a designer to study existing catalogs, to understand the eco
 
 Every good design begins with an evaluation stage and benchmarking. If you want to invent something that helps the community, please start with benchmarks.  In the benchmarking process for an OpenBox-related design, start with the catalog & technical drawings below.
 
-**USA Handy Box Specifications by Brands**
-
 ## Data
 Understand the data provided with commercial parts. This section aims to enable you to perform research quickly and understand the context of various manufacturer-provided documents.  Find simple definitions below, followed by images of samples.
 
-**sell sheet** is usually a 1-pager with imagery of the application of the product & important specificatons for the customer.
-**customer drawing** is a mechanical drawing which includes relevant specs for _integration_ of the part, rather than _manufacturing_ of the part.
-**spec sheet** is the page for technical information broader than the drawing.  What is the mass? The part series number?
-**catalog page** features the part inside the catalog, along with the part family, variations, and part-number tables.
+* **sell sheet** is usually a 1-pager with imagery of the application of the product & important specificatons for the customer.
+* **customer drawing** is a mechanical drawing which includes relevant specs for _integration_ of the part, rather than _manufacturing_ of the part.
+* **spec sheet** is the page for technical information broader than the drawing.  What is the mass? The part series number?
+* **catalog page** features the part inside the catalog, along with the part family, variations, and part-number tables.
 
 - ![customer drawing image](img/data_customerDrawing.jpg)
 - ![sell sheet image](img/data_sellSheet.jpg)
