@@ -119,7 +119,7 @@ Understanding the data - this section aims to enable you to perform research qui
 - ![customer drawing image](img/data_customerDrawing.jpg)
 - ![sell sheet image](img/data_sellSheet.jpg)
 - ![spec sheet image](img/data_specSheet.jpg)
-- ![catalog page image](img/data_catlogPage.jpg)
+- ![catalog page image](img/data_catalogPage.jpg)
 
 #### 666 CUS by RACO (4” x 2” x 1-7/8”)
 
