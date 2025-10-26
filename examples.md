@@ -84,7 +84,13 @@ Combine the handybox with 3/4in steel conduit for the fastest custom hanging rod
 * ![use case structural, image](img/use_structure3.jpg)
 
 ## Mechanical
-Utilize the rigidity, strength, and symmetry of the box to carry a load that moves.  This example demonstrates an articulating arm for a big patio fan, with minimal parts.  The fan can be moved by hand and hold steady while the fan cools you down.  Sometimes it's turned to blow sawdust out of my workspace and sometimes for keeping cool at the bbq.
+Utilize the rigidity, strength, and symmetry of the box to carry a load that moves.  This example demonstrates an articulating arm for a big patio fan, with minimal parts.  The fan can be moved by hand and hold steady while the fan cools you down.  Sometimes it's turned to blow sawdust out of my workspace and sometimes for keeping cool at the bbq.  Keywords for the design below: fan, swing-arm, pivot, heavy mounting, linkage, video
 
 - ![use case fan1](img/use_fan1.jpg)
 - ![use case fan2](img/use_fan2.jpg)
+- ![use case fan2](img/use_fan2.jpg)
+
+## Thermo
+This short video demonstrates a design possibility where the handybox offers thermal characteristics we can't gain with 3D printing.  The steel captures and retains heat so the box can become an oven.  Injecting hot air with the electric hot air gun makes no degradation of the material, then the small holes create distributed exhaust ports which cause more even heating of the enclosure.  The base plate, made of ceramic tile seals the floor and retains heat further.  Easily insert a thermocouple, and we are only a few steps away from a temperature-controlled, automated, high efficiency baking chamber.  It could be used as a heat-shrink oven, a polymer sintering oven, or even a scientific datalogging furnace setup.  The project shown is several steps away from fully ready - want to take and run with it?
+
+<iframe width="503" height="895" src="https://www.youtube.com/embed/ZSltUDbt1nE" title="use Heat Transfer principles to build a heat shrink bake box" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
