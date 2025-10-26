@@ -55,9 +55,9 @@ We are marching towards electronics integration one step at a time.  I built the
 The Car Adapter converts a power tool battery to a cigarette lighter socket.  It includes a simple cover (panel) and the handy bushing (3D Printed).
 (left to right) front side, back side with lighter socket, full assembly with ridgid battery, 18v, and adapter setup.
 
-* ![car adapter pic1](img/img_carAdapter1.JPG)
-* ![car adapter pic2](img/img_carAdapter2.JPG)
-* ![car adapter box](img/IMG_0158.jpeg)
+* ![car adapter pic1](img/img_carAdapter1.jpg)
+* ![car adapter pic2](img/img_carAdapter2.jpg)
+* ![car adapter box](img/img_carAdapter3.jpg)
 
 More photos from updated assembly designs below.  The power adapter setup as of 2025.10 connects to a ridgid battery, using the handybox and a printable device called "terminal v2" which snaps into the Ridgid battery.  The anderson connector is added to the front port, and the same connector on a pigtail.  Shown below, a larger square handybox with a flat panel and a 30A ammeter.  If you purchase one of the thousands of meters online with square interfaces, a quick adjustment of the flat panel and a 3D print gets you a fully enclosed sensor box that can easily be adjusted for adding cords.
 
