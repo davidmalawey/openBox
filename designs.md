@@ -119,3 +119,14 @@ Every good design begins with an evaluation stage and benchmarking. If you want 
 - [img_drawing](https://github.com/user-attachments/assets/256211c1-f47f-49f2-863e-14f5fdbfc8e6) _dimensional drawings by manufacturers (Raco & more)_
 
 We don't have a specific structure for posting data but as I accumulate useful drawings and reliable documentation behind the branded boxes (suchas Raco by Hubbel) I will upload the content for others to download.  At times, I markup a PDF with mechanical drawings to point out the key items instead of starting a document from scratch.
+
+
+## Global
+Data for mapping the USA design space to other global specifications
+
+Hubbell is a company that manufactures both USA and Canadian spec designs of boxes.  Reviewing hubbell's design series' can reveal the commonized elements and unique elements between the standard boxes, and inform us where the designs overlap.  Then, we can make more optimal parametric designs. Example questions to answer: can we expect the box thicknesses to match between international specs?  Can we find brands like Raco which have sister brands in other countries?
+
+Below, find two example part numbers (52171k and 72171k) which both satisfy canadian specifciations but feature two different tab styles.  It is possible the main box dimensions are equivalent between USA and Canada.  Each time you perform research for your own design, it may add value to summarize this research & share in OpenBox Project.
+- ![hubbel example 1](img/canada_box1.jpg)
+- ![hubble example 2](img/canada_box2.jpg)
+- ![hubble example web](img/canada_hubbell.jpg)
