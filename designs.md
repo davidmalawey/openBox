@@ -6,8 +6,14 @@ I Hope you benefit from the concepts here - even without building any handybox d
 To be populated as I create videos to explain features.
 
 **Car Adapter**
-
+This video gives a full tutorial on building the car adapter design which is a combination of many design methods that are reproducible for 10,000 applications.  It discusses the efficiency benefits of the dc adapters, 3d printed interfaces with tolerances and parametric design elements, and much more. 
 <iframe width="703" src="https://www.youtube.com/embed/VLrEtrU10ow" title="Build a DIY power supply for powering electronics - using openBox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+See photos below for a clear image of the "car adapter" design using the handybox, 18v power tool battery, silicone wires, and other favorite versatile supplies.
+
+- ![car adapter, anderson](img/img_carAdapter.jpg)
+- ![car adapter, socket](img/img_carAdapter.jpg)
+- ![car adapter, with battery module](img_carAdapter3.jpg)
 
 ## Features
 A technical review for specific engineering features, listed by purpose
