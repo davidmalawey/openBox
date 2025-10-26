@@ -108,6 +108,19 @@ Every good design begins with an evaluation stage and benchmarking. If you want 
 
 **USA Handy Box Specifications by Brands**
 
+## Data
+Understanding the data - this section aims to enable you to perform research quickly and understand the context of various manufacturer-provided documents.  Find simple definitions below, followed by images of samples.
+
+**sell sheet** is usually a 1-pager with imagery of the application of the product & important specificatons for the customer.
+**customer drawing** is a mechanical drawing which includes relevant specs for _integration_ of the part, rather than _manufacturing_ of the part.
+**spec sheet** is the page for technical information broader than the drawing.  What is the mass? The part series number?
+**catalog page** features the part inside the catalog, along with the part family, variations, and part-number tables.
+
+- ![customer drawing image](img/data_customerDrawing.jpg)
+- ![sell sheet image](img/data_sellSheet.jpg)
+- ![spec sheet image](img/data_specSheet.jpg)
+- ![catalog page image](img/data_catlogPage.jpg)
+
 #### 666 CUS by RACO (4” x 2” x 1-7/8”)
 
 ![666 CUS Manufacturer Image](https://do1jvmih5t6vs.cloudfront.net/userfiles/ad/large/raco_666.jpg)
