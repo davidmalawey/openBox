@@ -11,9 +11,9 @@ This video gives a full tutorial on building the car adapter design which is a c
 
 See photos below for a clear image of the "car adapter" design using the handybox, 18v power tool battery, silicone wires, and other favorite versatile supplies.
 
-- ![car adapter, anderson](img/img_carAdapter.jpg)
-- ![car adapter, socket](img/img_carAdapter.jpg)
-- ![car adapter, with battery module](img_carAdapter3.jpg)
+- ![car adapter, anderson](img/img_carAdapter1.jpg)
+- ![car adapter, socket](img/img_carAdapter2.jpg)
+- ![car adapter, with battery module](img/img_carAdapter3.jpg)
 
 ## Features
 A technical review for specific engineering features, listed by purpose
