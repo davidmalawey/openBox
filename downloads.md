@@ -70,10 +70,11 @@ Understand the data provided with commercial parts. This section aims to enable 
 - 4 in. x 2 in. Handy Box, Drawn, 1-7/8 in. Deep with Seven 1/2 & One 3/4 in. KO's, Raised Ground
 - [download (100Mb)](https://lobfile.com/file/TMfW62ny.pdf)
 
+Below, find preview images of the customer drawing, sell sheet, and dimensional drawing. 
 
-- ![img_technicalData1](https://github.com/user-attachments/assets/8c5ebed6-eeb9-4228-b587-385ee21200a7) _see material properties, dimensions, & more_
-- ![image techsheet](img/img_racoData1.jpg 'class=image-25') _technical sheets published by manufacturers_
-- ![img_drawing](https://github.com/user-attachments/assets/256211c1-f47f-49f2-863e-14f5fdbfc8e6) _dimensional drawings by manufacturers (Raco & more)_
+* ![img_technicalData1](https://github.com/user-attachments/assets/8c5ebed6-eeb9-4228-b587-385ee21200a7) _see material properties, dimensions, & more_
+* ![image techsheet](img/img_racoData1.jpg 'class=image-25') _technical sheets published by manufacturers_
+* ![img_drawing](https://github.com/user-attachments/assets/256211c1-f47f-49f2-863e-14f5fdbfc8e6) _dimensional drawings by manufacturers (Raco & more)_
 
 We don't have a specific structure for posting data but as I accumulate useful drawings and reliable documentation behind the branded boxes (suchas Raco by Hubbel) I will upload the content for others to download.  At times, I markup a PDF with mechanical drawings to point out the key items instead of starting a document from scratch.
 
