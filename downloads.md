@@ -13,6 +13,13 @@ The following This widely available component, found in hardware stores across t
 * contains datasheet & CAD files
 * [handybox post](https://grabcad.com/library/handybox-1) using Raco model 666
 
+**Octagon Box**
+This is the most popular octagon shaped box by Raco, in their catalog.  It's distributed in hardware stores like Lowes as cheaply as $2.60 and also has variants, so I modeled one to begin with.  The design has been initially used as examples to integrate a hub with a bearing, which fastens to the center of the bottom.  This is a good structural part for designs of assemblies which carry loads and rotate.  The box gives symmetrical holes for bolts to pass through, fitting M6 and smaller in metric or 1/4in machine screws without any modification.  The CAD model is parametric and lightweight so you can begin with this design and change the depth or the holes to build a model matching your parts in-hand.  The grabCAD post includes a PDF with some manufacturer data to help you find related parts.
+* Go to [octagon box on grabCAD](https://grabcad.com/library/octagonbox-1)
+
+- [image of CAD model](https://s3.amazonaws.com/gc-p/screenshots/pics/c9c166a4ac475c26c91e5991418ce1ca/original.JPG)
+- [image of integrated hub with bearing](https://s3.amazonaws.com/gc-p/screenshots/pics/5c05e83e79c97dc53cca70ca8001ef05/original.JPG)
+- [image with octagon box](https://s3.amazonaws.com/gc-p/screenshots/pics/9366ce5543546b635158687a36a0c62e/original.jpg)
 
 **OpenBox Cluster Post**
 * see CAD [models post here](https://grabcad.com/library/openbox-1)
