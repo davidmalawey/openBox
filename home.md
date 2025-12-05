@@ -58,3 +58,6 @@ How can you contribute? We’re here to spark ideas, not dictate outcomes. Share
 Join us on [GitHub](https://github.com/davidmalawey/openBox) for documentation, feedback, or collaboration, and check out related content on [YouTube]](https://www.youtube.com/@davidmalawey)) for inspiration.
 
 Let’s grow this project together and support makers worldwide!
+
+**Docsify-This**
+This web page was made possible by DocsifyThis, a free and open web tool that helps authors publish documentation.  I discovered DocsifyThis in 2024 and it now enables all my Github repositories to render into simple web pages.  Learn more at [docsify-this.net](https://docsify-this.net/#/) and get support on discord at [the docsify-this discord](https://discord.gg/docsify) thanks to developer Paul Hibbits!
