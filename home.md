@@ -42,7 +42,7 @@ The OpenBox project is designed to document and standardize specifications for s
 For a detailed overview of brand-specific designs and variations, refer to the [Design Catalog](design.md). This resource compiles technical sheets, dimensional drawings, and reliable documentation from various manufacturere..
 
 >
-> [Jump to Designs specifications](design)
+> [Jump to Designs specifications](designs)
 >
 
 The catalog also includes PDFs drawings obtained from manufacturing highlighting key mechanical features for enhanced clarity and precision in design adaptation.
