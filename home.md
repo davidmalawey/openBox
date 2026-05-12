@@ -55,7 +55,7 @@ The catalog also includes PDFs drawings obtained from manufacturing highlighting
 
 How can you contribute? We’re here to spark ideas, not dictate outcomes. Share your creations on platforms like [GrabCad](https://grabcad.com/library?page=1&time=all_time&sort=recent&query=openbox), Printables, or others, and help expand the OpenBox project.
 
-Join us on [GitHub](https://github.com/davidmalawey/openBox) for documentation, feedback, or collaboration, and check out related content on [YouTube]](https://www.youtube.com/@davidmalawey)) for inspiration.
+Join us on [GitHub](https://github.com/davidmalawey/openBox) for documentation, feedback, or collaboration, and check out related content on [David Malawey's YouTube Channel](https://www.youtube.com/@davidmalawey) for inspiration.
 
 Let’s grow this project together and support makers worldwide!
 
