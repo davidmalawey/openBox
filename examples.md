@@ -15,6 +15,15 @@ _steps to get you started in designing_
 - Ask in [David’s Discord community](https://discord.com/channels/1309520786364567594/1314395386408079410).
 - Post an issue in the GitHub repository.
 
+## Gearbox
+Designs for power transmission and torque conversion.  The handybox offers a wonderfully ridgid housing for retaining parallel and perpendicular shafts.  **The BushBox is the subset of designs for bushings implemented in the handybox.**  As of 2026.05 we have new models to be photographed, with effective pulley implementation using no. 150 o-rings, and pulleys that rest on bearings.
+
+* Download [bushbox CAD models](https://grabcad.com/library/bushbox_v0-1) based on 6mm shafts, printable bushings and retainers.
+
+- ![linked image of CAD](https://grabcad.com/screenshots/pics/d779b35443f56f6e4be44e8e243d6cd6/original.JPG)
+- ![linked image of shaft setup](https://grabcad.com/screenshots/pics/3ae3fabede64e5d26e349848e201ffd5/original.jpg)
+- ![linked image of concept](https://grabcad.com/screenshots/pics/3ae3fabede64e5d26e349848e201ffd5/original.jpg)
+
 ## Organizers
 Designs for holding your toos & equipment & securing them where needed.
 
