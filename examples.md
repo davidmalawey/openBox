@@ -22,7 +22,7 @@ Designs for power transmission and torque conversion.  The handybox offers a won
 
 - ![linked image of CAD](https://grabcad.com/screenshots/pics/d779b35443f56f6e4be44e8e243d6cd6/original.JPG)
 - ![linked image of shaft setup](https://grabcad.com/screenshots/pics/3ae3fabede64e5d26e349848e201ffd5/original.jpg)
-- ![linked image of concept](https://grabcad.com/screenshots/pics/3ae3fabede64e5d26e349848e201ffd5/original.jpg)
+- ![linked image of concept](https://grabcad.com/screenshots/pics/68f6158175efce5c7c8b730e6a775e1d/original.jpg)
 
 ## Organizers
 Designs for holding your toos & equipment & securing them where needed.
