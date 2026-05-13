@@ -16,7 +16,7 @@ Implementation of pulleys or toothed belts demands refined positioning of shafts
 * Select o-ring products that are most common and also fit our key geartrains.
 
 * Get the [Belt Design Simulator](docs/beltDriveSim_1.1.html) to try it out.
-* Get the [oRing Dash Chart PDF](docs/2026_oRingDashChart.pdf) full version of the image below.
+* Get the [oRing Dash Chart PDF](https://github.com/davidmalawey/openBox/blob/2f49ecf0b632a5d817f5bc2f1ae1fadb6c0556f6/docs/2026_oRingDashChart.pdf) full version of the image below.
 
 _Below, see an example gearbox to be configured.  The green pulley diameters must be selected in conjunction with the belt shape. Next, the HTML based simulator for pulley & belt selection. Right: a chart for o-ring standards based on dash-numbers._
 - ![image of belt calculator 1](img/configGearbox1.jpg)
