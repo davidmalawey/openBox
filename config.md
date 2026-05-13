@@ -15,6 +15,7 @@ Implementation of pulleys or toothed belts demands refined positioning of shafts
 * Match a system configuration to a standard belt length.
 * Select o-ring products that are most common and also fit our key geartrains.
 
+Two assets utilized in this design are available here:
 * Get the [Belt Design Simulator](docs/beltDriveSim_1.1.html) to try it out.
 * Get the [oRing Dash Chart PDF](https://github.com/davidmalawey/openBox/blob/2f49ecf0b632a5d817f5bc2f1ae1fadb6c0556f6/docs/2026_oRingDashChart.pdf) full version of the image below.
 
