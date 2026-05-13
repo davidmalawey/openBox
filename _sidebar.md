@@ -2,4 +2,5 @@
 - [Examples](examples)
 - [Downloads](downloads)
 - [Designs](designs)
+- [Configurating](config)
 - [Links](links)
