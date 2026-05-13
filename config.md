@@ -15,6 +15,8 @@ Implementation of pulleys or toothed belts demands refined positioning of shafts
 * Match a system configuration to a standard belt length.
 * Select o-ring products that are most common and also fit our key geartrains.
 
-- ![image of belt calculator 1](img/beltSim1.jpg)
-- ![image of belt calculator 2](img/beltSim2.jpg)
-- ![image of belt calculator 3](img/beltSim3.jpg)
+
+_Below, see an example gearbox to be configured.  The green pulley diameters must be selected in conjunction with the belt shape. Next, the HTML based simulator for pulley & belt selection. Right: a chart for o-ring standards based on dash-numbers._
+- ![image of belt calculator 1](img/configGearbox1.jpg)
+- ![image of belt calculator 2](img/configChart1.jpg)
+- ![image of belt calculator 3](img/configSim1.jpg)
