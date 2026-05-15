@@ -61,18 +61,19 @@ The next photos show the reducer used in assembly.  (left) you can pass a 6mm sh
 **Bearing Hub**
 (2026) Hub_M6 is a new version derived from Hub0 and Hub1.  This module fits the size 606 bearing and clamps to the box with M6 fasteners and nuts (previous version uses M5).  It requires the holes of the box to be slightly enlarged to correct for the deformation in the hole pattern from the stamping process.  The handybox holes are reamed to 7.0mm and gently chamfered for deburring.
 
-_see photos of the hub M6 and implementation below_
-- ![hub_m6 photo](img/hubm6_1.jpg)
-- ![hub_m6 photo](img/hubm6_2.jpg)
-- ![hub_m6 photo](img/hubm6_3.jpg)
-- ![hub_m6 photo](img/hubm6_4.jpg)
-- ![hub_m6 photo](img/hubm6_5.jpg)
-- ![hub_m6 photo](img/hubm6_6.jpg)
-
-_see images of the hub M6 model below_
+_see images of the hub M6 CAD model below_
 - ![hub_m6 photo](img/photo_hubm6_1.jpg)
 - ![hub_m6 photo](img/photo_hubm6_2.jpg)
 - ![hub_m6 photo](img/photo_hubm6_3.jpg)
+
+_see photos of the hub M6 and its implementation below_
+- ![hub_m6 photo](img/hubM6_1.jpg)
+- ![hub_m6 photo](img/hubM6_2.jpg)
+- ![hub_m6 photo](img/hubM6_3.jpg)
+- ![hub_m6 photo](img/hubM6_4.jpg)
+- ![hub_m6 photo](img/hubM6_5.jpg)
+- ![hub_m6 photo](img/placeholder.jpg)
+
 
 (2025) Hub0 and Hub1 are published. The hub fastens a bearing to the handybox floor, and this design features the octagon shaped box.  All of the large boxes (square and octagon) feature a standard set of holes at the floor which are ready to mount a feature like this.  Use this hub to pass a shaft through the center of the box for a symmetric rotating assembly.
 * [get the hub model here](https://grabcad.com/library/hub_0-1])
