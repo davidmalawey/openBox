@@ -2,50 +2,28 @@
 The purpose of Handybox is to benefit several types of projects with one standard part, accompanied by several other standards that have a well-established ecosystem and many available components near you at brick-and-mortar stores.
 I Hope you benefit from the concepts here - even without building any handybox designs you will find some techniques that save time in CAD, prototyping, wiring, or creating new concepts for designs.
 
-## Videos
-To be populated as I create videos to explain features.
-
-**Car Adapter**
-This video gives a full tutorial on building the car adapter design which is a combination of many design methods that are reproducible for 10,000 applications.  It discusses the efficiency benefits of the dc adapters, 3d printed interfaces with tolerances and parametric design elements, and much more. 
-<iframe width="703" src="https://www.youtube.com/embed/VLrEtrU10ow" title="Build a DIY power supply for powering electronics - using openBox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-See photos below for a clear image of the "car adapter" design using the handybox, 18v power tool battery, silicone wires, and other favorite versatile supplies.
-
-- ![car adapter, anderson](img/img_carAdapter1.jpg)
-- ![car adapter, socket](img/img_carAdapter2.jpg)
-- ![car adapter, with battery module](img/img_carAdapter3.jpg)
-
-## Features
-A technical review for specific engineering features, listed by purpose
-
-## Liner
-
-Easily adjust the box volume with a liner. This addition is made of a foam pad and I call it a "floor liner" and use it to control the height of racked items or protect parts from scatching at the floor of the box. For items standing in the box used as a rack, we can adjust heights without any 3D printing changes.  Alternately, we may want to line the base to prevent contact between brittle metal and the box floor.  This can be achieved in two minutes with some foam or other lining material.  For my example, I wanted to offset the floor for all of the 3rd row taps, due to their short length of shank, they could fall down and become hard to grab.  As needed, just slice a piece of foam or add more layers to offset the height of a row of bits.  Also, this keeps bits from chipping if they drop against the steel box.
-
-![box floor liner image](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/71db1b41ccb4b189cb514e836513f97c/original.jpg) 
-
-## Parts
-Components, methods, and considerations for organizing wires in projects.  It's best to watch this before you design, so you can discover parts to integrate in your project plans. These are main components around which the other parts are designed.
-
-* EMT Conduit
-* Handybox electrical boxes with 1/2in knockout holes
-* Switches, 22mm, toggle switches
-* Outlets, ordinary 120v North America standard
-
-**Large Box**
+## Large Box
 The large box is uploaded as a "configuration" of the solidworks model, in grabCAD.  It's a square box, sometimes sold with 4 tabs for 2-gang configuration.
+* Download [2-Gang Handybox Model on grabCAD](https://grabcad.com/library/openbox-1) inside this post
 
-**HandyMount**
+
+## DIN Mount
 Mount your boxes to your DIN rail, multiple orientations & box sizes. This bracket is parametric, with configurations shown in the animated GIF. The narrow option has 1-in spacing for the 1-gang box and the wide option matches the 1.5in spacing of the square boxes found in local stores.
+* Download [DIN mount bracket on GrabCAD](https://grabcad.com/library/handymount-1)
 
-**Bushing**
-A feature for electrical and mechanical functions. Version 1 is adapted for fixing anderson connectors into the wall of a panel. It can be adjusted for different hole sizes, or different center features.  You may wish to use it as a grommet, or adapter for a 10mm pushbutton, or 100 other items.  The idea is that a new user gains a new function but retains the investment of the code behind the nicely made parametric part.  The feature tree is easy to navigate, so you may update the design without knowledge of all the original design considerations. (just like open source software).
+- ![cad model DIN mount assembly](https://grabcad.com/screenshots/pics/6cb35d3681daa2a8277679868fdc6afa/original.jpg)
+- ![din mount in use, photo](https://grabcad.com/screenshots/pics/172e093a41ca89a2b01bc5f8ab06374a/original.jpg)
+- ![din mount in-use, backside photo](https://grabcad.com/screenshots/pics/c397021bfe7a303dc420d1edc8d0b6a9/original.jpg)
 
-* ![img handybox large](https://github.com/user-attachments/assets/0e74d687-8dab-4486-bea9-78ceadb83627)
-* ![img handyMount image](https://github.com/user-attachments/assets/920e28c6-80b8-4301-968d-de2845a30da9)
-* ![img_eBushing1](https://github.com/user-attachments/assets/84268de3-2954-4cb2-bd8d-b86bb7608e46)
+## Bushing
+This bushing design fits the standard 1/2inch knockout and creates a port for a variety of connectors. A feature for electrical and mechanical functions. Version 1 is adapted for fixing anderson connectors into the wall of a panel. It can be adjusted for different hole sizes, or different center features.  You may wish to use it as a grommet, or adapter for a 10mm pushbutton, or 100 other items.  The idea is that a new user gains a new function but retains the investment of the code behind the nicely made parametric part.  The feature tree is easy to navigate, so you may update the design without knowledge of all the original design considerations. (just like open source software).
+* Download [Bushing CAD model on grabCAD](https://grabcad.com/library/ebushing-1)
+  
+- ![img handybox large](https://github.com/user-attachments/assets/0e74d687-8dab-4486-bea9-78ceadb83627)
+- ![img handyMount image](https://github.com/user-attachments/assets/920e28c6-80b8-4301-968d-de2845a30da9)
+- ![img_eBushing1](https://github.com/user-attachments/assets/84268de3-2954-4cb2-bd8d-b86bb7608e46)
 
-**Reducer**
+## Reducer
 This design allows for your choice of machine screw to fasten into the large 22mm holes in the plate steel.  The STEP model features an M6 fastener size with hex nut. But if you access the SOLIDWORKS model you can easily modify it for any size.  The post includes one variation as an example of how to pivot the design for new shapes.  It's designed for a thicker steel with a shorter hoop and a larger M8 bolt. 
 
 - ![img reducer assembly sectioned](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/91eedccf81eb2700d3b21cf090a410d0/original.jpg)
@@ -58,7 +36,7 @@ The next photos show the reducer used in assembly.  (left) you can pass a 6mm sh
 - ![img perpendicularity](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/db0eed128355d71af3a27b6074d867ea/original.jpg)
 - ![img load bearing](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/220be329b34217bfc16bc8b06a401091/original.jpg)
 
-**Bearing Hub**
+## Bearing Hub
 
 (2026) Hub_M6 is a new version derived from Hub0 and Hub1.  This module fits a size 606 bearing and clamps to the box with M6 fasteners and nuts (previous version uses M5).  It requires the holes of the box to be slightly enlarged to correct for the deformation in the hole pattern from the stamping process.  The handybox holes are reamed to 7.0mm and gently chamfered for deburring.
 
@@ -85,7 +63,7 @@ _see photos of the hub M6 and its implementation below_
 
 
 
-**Cover**
+## Covers
 One model for many purposes.  This model branches into letters A through G so far (2025.10) but I skipped a few that are less common needs.  I produced images for most variants to date.
 * cover B fits the small shaft found in all the dremel tools and 1/8 inch rotary devices, an extremely common shank size.
 * cover E gives a flat surface sectioned into smaller areas for enhanced printing without warping, in ABS.
@@ -105,7 +83,7 @@ One model for many purposes.  This model branches into letters A through G so fa
 - ![cover J for panel insert](img/img_coverJ1.jpg)
 
 
-**Octagon**
+## Octagon Box
 This variety is modeled after Raco part number 8125, having octagon shape and holes for both 1/2 and 3/4inch conduit, the most common steel conduit sizes.  I made a very clean model in Solidworks for open sourcing.  This abstacts some details and gives the overall shape which is reliable enough to design mating parts.
 * Grab CAD for [octagon box](https://grabcad.com/library/octagonbox-1)
 
@@ -114,3 +92,21 @@ _Photos below show the plain octagon box, and integration of a bearing hub.  The
 * ![linked image octagon box2](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/5c05e83e79c97dc53cca70ca8001ef05/original.JPG)
 * ![linked image octagon box3](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/9366ce5543546b635158687a36a0c62e/original.jpg)
 
+## DC Socket Adapter
+To be populated as I create videos to explain features.
+
+**Car Adapter**
+This video gives a full tutorial on building the car adapter design which is a combination of many design methods that are reproducible for 10,000 applications.  It discusses the efficiency benefits of the dc adapters, 3d printed interfaces with tolerances and parametric design elements, and much more. 
+<iframe width="703" src="https://www.youtube.com/embed/VLrEtrU10ow" title="Build a DIY power supply for powering electronics - using openBox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+See photos below for a clear image of the "car adapter" design using the handybox, 18v power tool battery, silicone wires, and other favorite versatile supplies.
+
+- ![car adapter, anderson](img/img_carAdapter1.jpg)
+- ![car adapter, socket](img/img_carAdapter2.jpg)
+- ![car adapter, with battery module](img/img_carAdapter3.jpg)
+
+## Liner
+
+Easily adjust the box volume with a liner. This addition is made of a foam pad and I call it a "floor liner" and use it to control the height of racked items or protect parts from scatching at the floor of the box. For items standing in the box used as a rack, we can adjust heights without any 3D printing changes.  Alternately, we may want to line the base to prevent contact between brittle metal and the box floor.  This can be achieved in two minutes with some foam or other lining material.  For my example, I wanted to offset the floor for all of the 3rd row taps, due to their short length of shank, they could fall down and become hard to grab.  As needed, just slice a piece of foam or add more layers to offset the height of a row of bits.  Also, this keeps bits from chipping if they drop against the steel box.
+
+![box floor liner image](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/71db1b41ccb4b189cb514e836513f97c/original.jpg) 
