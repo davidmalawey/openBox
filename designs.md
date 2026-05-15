@@ -7,9 +7,9 @@ The large box is uploaded as a "configuration" of the solidworks model, in grabC
 * Download [Square Box CAD Model](https://grabcad.com/library/squarebox-1) on grabCAD, 2026, or 
 * Download [2-Gang Handybox Model on grabCAD](https://grabcad.com/library/openbox-1) and open the square box configuration
 
--![cad model image, linked 1](https://grabcad.com/screenshots/pics/37a5e82dfe3955bec16e30c24299a862/original.JPG)
--![cad model image, linked 2](https://grabcad.com/screenshots/pics/e7731aa98c01e3f9e556b7b687b6b94e/original.JPG)
--![cad model image, linked 3](https://grabcad.com/screenshots/pics/fe16a97670b58916f904fab01d5207ad/original.JPG)
+- ![cad model image, linked 1](https://grabcad.com/screenshots/pics/37a5e82dfe3955bec16e30c24299a862/original.JPG)
+- ![cad model image, linked 2](https://grabcad.com/screenshots/pics/e7731aa98c01e3f9e556b7b687b6b94e/original.JPG)
+- ![cad model image, linked 3](https://grabcad.com/screenshots/pics/fe16a97670b58916f904fab01d5207ad/original.JPG)
 
 ## DIN Mount
 Mount your boxes to your DIN rail, multiple orientations & box sizes. This bracket is parametric, with configurations shown in the animated GIF. The narrow option has 1-in spacing for the 1-gang box and the wide option matches the 1.5in spacing of the square boxes found in local stores.
