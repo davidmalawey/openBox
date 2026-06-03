@@ -1,6 +1,6 @@
 ![img_banner](https://github.com/user-attachments/assets/ffa113f2-2e5e-4a40-9aae-9c9a140e232c)
 
-Openbox is a collection of inventions based on a "handy box," a cheap standard part found in American hardware stores.  At about $1.80 each, this box can outperform many alternatives for it's thermal properties, rigidity, dead weight, and availability of attachments that don't require any effort at all.  This collection is intended to crack open your imagination, especially for 3D printer enthusiasts who want to create projects that demand stronger components than plain plastic.
+How can we design working systems without a fabrication shop? **By integrating powerful off-the-shelf components** together with 3D printed designs. Openbox is a whole ecosystem to demonstrate the power of engineered OTS parts in a designer's hands.  Explore the inventions based on a "handy box," a cheap standard part found in American hardware stores.  This box is a powerful tool for it's thermal properties, rigidity, dead weight, and availability of attachments that assemble effortlessly.  OpenBox is here to crack open your imagination as a designer.
 
 # Explore Examples
 
