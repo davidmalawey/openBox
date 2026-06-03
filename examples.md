@@ -82,7 +82,7 @@ _(left) handy bushing next to OTS part with similar function (right) handy bushi
 
 - ![bushing img1](img/img_bushing1.JPG)
 - ![bushing img2](img/img_bushing2.JPG)
-- ![bushing img2](img/img_bushing2.JPG)
+- ![bushing img2](img/img_bushing3.JPG)
 
 ## Storage
 
