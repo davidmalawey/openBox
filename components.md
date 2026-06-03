@@ -2,6 +2,13 @@
 The purpose of Handybox is to benefit several types of projects with one standard part, accompanied by several other standards that have a well-established ecosystem and many available components near you at brick-and-mortar stores.
 I Hope you benefit from the concepts here - even without building any handybox designs you will find some techniques that save time in CAD, prototyping, wiring, or creating new concepts for designs.
 
+## EMT Parts
+My favorite EMT components are shared in the video below.  There are hundreds of COTS parts available, but these are my recommended choices for connecting the electrical boxes to steel EMT conduit for maximum versatilty with a simplified collection of key parts.  I made several visits to the hardware store, examined the parts for high value and strength, utility, matching threads, and tried them out.  This video is the summarized results!
+* View on Youtube [Engineered Conduit Parts to study before designing](https://youtu.be/n3na6mTBLvA)
+* Download [Conduit Data PDF](https://github.com/davidmalawey/openBox/blob/3fe550db0bed70aadd6ea2b92badf3d50794bb8a/docs/2025_conduitData.pdf)
+
+<iframe width="800" src="https://www.youtube.com/embed/n3na6mTBLvA" title="Highly Engineered EMT Conduit Parts to Study Before Designing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Large Box
 The large box is uploaded as a "configuration" of the solidworks model, in grabCAD.  It's a square box, sometimes sold with 4 tabs for 2-gang configuration.  These are available between $3 to $4 in North American hardware stores, usually are 1.5 inches in depth and have commonized holes (called 1/2 inch or 3/4inch trade size) with the other deep-drawn handybox designs.  It's a thick steel around 1.7mm, galvanized for mild rust protection and plenty sturdy for enclosing mechanical 3D printed assemblies.
 * Download [Square Box CAD Model](https://grabcad.com/library/squarebox-1) on grabCAD, 2026, or 
