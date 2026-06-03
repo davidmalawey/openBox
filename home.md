@@ -30,8 +30,20 @@ Suitable 3D printed designs for openBox can enable your electronics projects & b
 - ![use case, switch for pump](img/use_switch1.jpg)
 
 ## Mechanical
-The heavy steel stamping is a perfect starting point for many mechanical designs. Over time, we will feature static figures such as customizable camera mounts, pivoting structures, attachments for parts storage, and dynamic assemblies (you could even call them robots).
+How do engineers design moving, mechanical machines? Mechanical parts must support motion and load-bearing simultaneously and continuously.  That demands rigidity, toughness, and geometry that suits alignment of components like shafts and gears.  OpenBox meets all of these needs for a mechanical designer.  Below, find the box utilized as a housing for large bearings and a heavy rotating chuck.  This design was built to see if the box can hold a perpendicular shaft and keep it's shape under loads, like this spinning mass.
 
+- ![photo, lathe chuck OPEN](img/use_chuck1.jpg)
+- ![photo, lathe chuck CLOSED](img/use_chuck2.jpg)
+- ![photo, lathe chuck inside](img/use_chuck3.jpg)
+
+How can we build a chain drive mechanism with just a 3D printer?  The box is a huge help where the pre-made knockouts align shafts and carry forces from the coupling chain.  This demonstration piece has a printed knob at the end of the M8 bolt, so we can spin the assembly by hand.
+
+- ![photo, chain drive device upright](img/use_chain1.jpg)
+- ![photo, chain drive knob](img/use_chain2.jpg)
+- ![photo, chain drive gears](img/use_chain3.jpg)
+
+## Structural
+Load-bearing is readily implemented with the heavy steel stamped box. Over time, we will feature static figures such as customizable camera mounts, pivoting structures, attachments for parts storage, and dynamic assemblies (you could even call them robots).
 - ![use case, gearbox](img/use_gearbox1.jpg)
 - ![use case, rail](img/use_structure2.jpg)
 - ![use case, fanmount](img/use_fan2.jpg)
