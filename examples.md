@@ -24,6 +24,8 @@ Designs for power transmission and torque conversion.  The handybox offers a won
 - ![linked image of shaft setup](https://grabcad.com/screenshots/pics/3ae3fabede64e5d26e349848e201ffd5/original.jpg)
 - ![linked image of concept](https://grabcad.com/screenshots/pics/68f6158175efce5c7c8b730e6a775e1d/original.jpg)
 
+---
+
 ## Organizers
 Designs for holding your toos & equipment & securing them where needed.
 
@@ -42,6 +44,8 @@ Make a business card holder - this one has a wide section for related cards that
 - ![bizcard1](img/img_bizcard1.jpg)
 - ![bizcard1](img/img_bizcard1.jpg)
 
+---
+
 ## AC Electrical
 For 120v or 240v appliances with custom wires or switches.  See the 3rd and 4th photos showing front and back installation of switches, using the box and M6 fasteners to secure on aluminum extrusions.  We get a safe and rigid attachment for customizing the switches of the soldering desk appliances.  Check out [Openlab Project](qr.net/openlabproject) for more info about the soldering station.
 
@@ -52,12 +56,16 @@ _(img1) Design your own electronics box, as usual with 3d printing but use stand
 * ![use_desk1](img/use_desk1.jpg)
 * ![use desk2](img/usedesk2.jpg)
 
+---
+
 ## Electronics
 We are marching towards electronics integration one step at a time.  I built the below "handymount" because it merges two worlds: home electrical circuits and industrial electronics.  DIN rail is where automation experts design all of their parts to fit.  It has a massive ecosystem of compatible parts.  And the handybox will never go out of style.  Now you can fit a $0.77 AC socket wherever you have DIN rail and AC lines, and the attachment between them is designed in CAD.  Next up: to make arduino & other MCU based projects.
 
 * ![din mount bracket](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/6cb35d3681daa2a8277679868fdc6afa/original.jpg)
 * ![din mount bracket in use](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/172e093a41ca89a2b01bc5f8ab06374a/original.jpg)
 * ![din mount bracket image3](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/c397021bfe7a303dc420d1edc8d0b6a9/original.jpg)
+
+---
 
 ## DC Power
 
@@ -74,6 +82,8 @@ More photos from updated assembly designs below.  The power adapter setup as of 
 - ![use dc power tools2](img/use_dc2.jpg)
 - ![use dc power tools1](img/use_dc3.jpg)
 
+---
+
 ## Cable Routing
 
 The handy bushing design holds a wire or a plug in place, such as Anderson Powerwerx connectors.   It was designed by benchmarking the similar off-the-shelf designs.  The OTS bushings work great but we gain custom features by making our own.
@@ -84,6 +94,8 @@ _(left) handy bushing next to OTS part with similar function (right) handy bushi
 - ![bushing img2](img/img_bushing2.JPG)
 - ![bushing img2](img/img_bushing3.JPG)
 
+---
+
 ## Storage
 
 Combine the handybox with 3/4in steel conduit for the fastest custom hanging rod you've ever made.  The home improvement stores carry rigid connectors for straight and 90 degree angles, as shown in the last photo.  You can easily choose the orientation of the box that lets you fasten it to the wall with long screws. 
@@ -92,6 +104,8 @@ Combine the handybox with 3/4in steel conduit for the fastest custom hanging rod
 * ![use case structural, image](img/use_structure2.jpg)
 * ![use case structural, image](img/use_structure3.jpg)
 
+---
+
 ## Mechanical
 Utilize the rigidity, strength, and symmetry of the box to carry a load that moves.  This example demonstrates an articulating arm for a big patio fan, with minimal parts.  The fan can be moved by hand and hold steady while the fan cools you down.  Sometimes it's turned to blow sawdust out of my workspace and sometimes for keeping cool at the bbq.  As a quick and dirty solution, these two boxes effectively hold the fan and allow pivoting, but it's desired to form a design which refines this joint and eliminates the steel/steel rubbing condition. Keywords for the design below: fan, swing-arm, pivot, heavy mounting, linkage, video
 
@@ -99,6 +113,7 @@ Utilize the rigidity, strength, and symmetry of the box to carry a load that mov
 - ![use case fan2](img/use_fan2.jpg)
 - ![use case fan2](img/photo_jointLoad.jpg)
 
+---
 
 ## Chain Drive
 A designer has a rotating shaft in a machine and must create a gear-reducing mechanism.  How can the steel box help?  Let's use Q&A format to share an explanation & photos.
@@ -118,6 +133,8 @@ Each design element in the assembly is an answer to a specific design need.  Tho
 - ![chain drive photos](img/chainDrive5.jpg)
 - ![chain drive photos](img/chainDrive6.jpg)
 - ![chain drive photos](img/chainDrive7.jpg)
+
+---
 
 
 ## Thermo
