@@ -1,6 +1,6 @@
 - [Home](home)
 - [Examples](examples)
 - [Downloads](downloads)
-- [Designs](designs)
+- [Components](components)
 - [Configurating](config)
 - [Links](links)
