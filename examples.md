@@ -99,6 +99,27 @@ Utilize the rigidity, strength, and symmetry of the box to carry a load that mov
 - ![use case fan2](img/use_fan2.jpg)
 - ![use case fan2](img/photo_jointLoad.jpg)
 
+
+## Chain Drive
+A designer has a rotating shaft in a machine and must create a gear-reducing mechanism.  How can the steel box help?  Let's use Q&A format to share an explanation & photos.
+* How can we align two parallel shafts to set up for power transmission? use two pairs of knockouts to inset the parallel shafts.  Use a printable bushing to hold them. (see first photo)
+* How can we adjust the shaft distance to take slack out of the chain loop?  One pair of bushings will feature an offset centerline.  Rotating the bushings can pull one shaft further from the other.
+* Starting with just a bolt, how can we make it easier to turn a shaft by hand? A hexagon-shaped knob is press-fit onto the bolt or nut head.  (see blue knob in photos)
+
+- ![chain drive photos](img/chainDrive1.jpg)
+- ![chain drive photos](img/chainDrive2.jpg)
+- ![chain drive photos](img/chainDrive3.jpg)
+
+Each design element in the assembly is an answer to a specific design need.  Those answers can be carried over to new designs.
+* How can we retain the bushings inside the wall of the box?  Using a c-clip is perfect.  Add a groove into the bushing design for locating the c-clip. (see first photo)
+* How can the gears be locked in position on the shafts? Each OTS gear has a collar featuring 1 or 2 set screws.  For a gentle grip, just tighten the set screw.  For a sure hold, grind a divot into the shaft where the set screw will be added.  Once you tighten the set screw, it behaves like a key and it holds the full shear-strength of the screw.
+* How can we mount the whole box rigidly where it is needed?  Just find another knockout, oriented where you need to mount the box, then add an OTS coupler to secure the box to steel EMT conduit.  (see third photo below).
+
+- ![chain drive photos](img/chainDrive5.jpg)
+- ![chain drive photos](img/chainDrive6.jpg)
+- ![chain drive photos](img/chainDrive7.jpg)
+
+
 ## Thermo
 This short video demonstrates a design possibility where the handybox offers thermal characteristics we can't gain with 3D printing.  The steel captures and retains heat so the box can become an oven.  Injecting hot air with the electric hot air gun makes no degradation of the material, then the small holes create distributed exhaust ports which cause more even heating of the enclosure.  The base plate, made of ceramic tile seals the floor and retains heat further.  Easily insert a thermocouple, and we are only a few steps away from a temperature-controlled, automated, high efficiency baking chamber.  It could be used as a heat-shrink oven, a polymer sintering oven, or even a scientific datalogging furnace setup.  The project shown is several steps away from fully ready - want to take and run with it?
 
