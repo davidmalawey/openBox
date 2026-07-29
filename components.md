@@ -3,7 +3,7 @@ The purpose of Handybox is to benefit several types of projects with one standar
 I Hope you benefit from the concepts here - even without building any handybox designs you will find some techniques that save time in CAD, prototyping, wiring, or creating new concepts for designs.
 
 **Jump To Section**
-👉[EMT Parts](#emt-parts),[Large Box](#large-box),[DIN Mount](#din-mount), [Bushing](#bushing), [Reducer](#reducer), [Hub](#hub), [Covers](#covers), [Octagon Box](#octagon-box), [DC Socket](#dc-socket-adapter), [Liner](#liner)
+👉[EMT Parts](#emt-parts),[Large Box](#large-box),[DIN Mount](#din-mount), [Bushing](#bushing), [Reducer](#reducer), [Hub](#hub), [Covers](#covers), [Octagon Box](#octagon-box), [DC Socket](#socket), [Liner](#liner)
 
 ## EMT Parts
 My favorite EMT components are shared in the video below.  There are hundreds of COTS parts available, but these are my recommended choices for connecting the electrical boxes to steel EMT conduit for maximum versatilty with a simplified collection of key parts.  I made several visits to the hardware store, examined the parts for high value and strength, utility, matching threads, and tried them out.  This video is the summarized results!
@@ -106,8 +106,8 @@ _Photos below show the plain octagon box, and integration of a bearing hub.  The
 * ![linked image octagon box2](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/5c05e83e79c97dc53cca70ca8001ef05/original.JPG)
 * ![linked image octagon box3](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/9366ce5543546b635158687a36a0c62e/original.jpg)
 
-## DC Socket Adapter
-To be populated as I create videos to explain features.
+## Socket
+Socket, or DC socket adapter, for adding your custom plugs in the knockout positon.
 
 **Car Adapter**
 This video gives a full tutorial on building the car adapter design which is a combination of many design methods that are reproducible for 10,000 applications.  It discusses the efficiency benefits of the dc adapters, 3d printed interfaces with tolerances and parametric design elements, and much more. 
