@@ -3,6 +3,8 @@
 >
 > Looking for inspiration or practical examples of how to use OpenBox? Start here!
 >
+> Jump to: [Gearbox](#gearbox), [Organizers](#organizers), [AC Electrical](#ac-electrical), [Embedded Electronics](#electronics), [DC Power](#dc-power), [Cable Routing](#cable-routing), [Storage](#storage), [Mechanical](#mechanical), [Chain drive](#chain-drive), [Thermal functions](#thermal)
+>
 
 This gallery showcases a variety of examples, including designs and configurations, to help you get started. Some examples are fully documented, while others provide a visual overview for quick reference. The gallery is regularly updated as new items are created and shared.
 
