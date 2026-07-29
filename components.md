@@ -3,7 +3,7 @@ The purpose of Handybox is to benefit several types of projects with one standar
 I Hope you benefit from the concepts here - even without building any handybox designs you will find some techniques that save time in CAD, prototyping, wiring, or creating new concepts for designs.
 
 **Jump To Section**
-👉[EMT Parts](#emtparts),[Large Box](#largebox),[DIN Mount](#dinmount), [Bushing](#bushing), [Reducer](#reducer), [Bearing Hub](#bearinghub), [Covers](#covers), [Octagon Box](#octagonbox), [DC Socket](#dcsocketadapter), [Liner](#liner)
+👉[EMT Parts](#emtparts),[Large Box](#largebox),[DIN Mount](#din-mount), [Bushing](#bushing), [Reducer](#reducer), [Bearing Hub](#bearinghub), [Covers](#covers), [Octagon Box](#octagonbox), [DC Socket](#dcsocketadapter), [Liner](#liner)
 
 ## EMT Parts
 My favorite EMT components are shared in the video below.  There are hundreds of COTS parts available, but these are my recommended choices for connecting the electrical boxes to steel EMT conduit for maximum versatilty with a simplified collection of key parts.  I made several visits to the hardware store, examined the parts for high value and strength, utility, matching threads, and tried them out.  This video is the summarized results!
