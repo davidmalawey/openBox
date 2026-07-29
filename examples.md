@@ -3,7 +3,7 @@
 >
 > Looking for inspiration or practical examples of how to use OpenBox? Start here!
 >
-> Jump to: [Gearbox](#gearbox), [Organizers](#organizers), [AC Electrical](#ac-electrical), [Embedded Electronics](#electronics), [DC Power](#dc-power), [Cable Routing](#cable-routing), [Storage](#storage), [Mechanical](#mechanical), [Chain drive](#chain-drive), [Thermal functions](#thermal)
+> Jump to: [Gearbox](#gearbox), [Organizers](#organizers), [AC Electrical](#ac-electrical), [Embedded Electronics](#electronics), [DC Power](#dc-power), [Cable Routing](#cable-routing), [Storage](#storage), [Mechanical](#mechanical), [Chain drive](#chain-drive), [Thermal functions](#thermal), [Metal polishing](#metal-polishing)
 >
 
 This gallery showcases a variety of examples, including designs and configurations, to help you get started. Some examples are fully documented, while others provide a visual overview for quick reference. The gallery is regularly updated as new items are created and shared.
@@ -142,4 +142,13 @@ Each design element in the assembly is an answer to a specific design need.  Tho
 ## Thermo
 This short video demonstrates a design possibility where the handybox offers thermal characteristics we can't gain with 3D printing.  The steel captures and retains heat so the box can become an oven.  Injecting hot air with the electric hot air gun makes no degradation of the material, then the small holes create distributed exhaust ports which cause more even heating of the enclosure.  The base plate, made of ceramic tile seals the floor and retains heat further.  Easily insert a thermocouple, and we are only a few steps away from a temperature-controlled, automated, high efficiency baking chamber.  It could be used as a heat-shrink oven, a polymer sintering oven, or even a scientific datalogging furnace setup.  The project shown is several steps away from fully ready - want to take and run with it?
 
-<iframe width="503" height="895" src="https://www.youtube.com/embed/ZSltUDbt1nE" title="use Heat Transfer principles to build a heat shrink bake box" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="300" src="https://www.youtube.com/embed/ZSltUDbt1nE" title="use Heat Transfer principles to build a heat shrink bake box" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## Metal Polishing
+The steel boxes are perfect for learning to polish metal to a mirror-like shine.  It's an easy process with inexpensive materials.  One investment maybe required: a rotary tool that spins over 10,000 RPM.  In the 1990's these tools barely existed but now several popular options appear in hardware stores.  In this example we use these supplies:
+* Cordless Rotary tool with 1/4in collet and 22k RPM max. (Mine is Ridgid brand)
+* Wool buffing pad, 2in diameter (or 50mm) and quick-change fitting such as [FFPO felt wool discs](https://amzn.to/4yNYc1C)
+* Green buffing compound such as this [Amazon Buffing Product](https://amzn.to/4pJ4NWZ) with 3 types.
+
+<iframe width="300" src="https://www.youtube.com/embed/hLyruTXxTsw" title="Mirror polish on steel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
