@@ -90,9 +90,9 @@ The handy bushing design holds a wire or a plug in place, such as Anderson Power
 
 _(left) handy bushing next to OTS part with similar function (right) handy bushing shown placed into the box, 1/2in trade size hole around 22mm._
 
+- ![linked CAD image, bushing](https://grabcad.com/screenshots/pics/727dea5bd4ebee8411c9b5efeb704445/original.JPG)
 - ![bushing img1](img/img_bushing1.JPG)
 - ![bushing img2](img/img_bushing2.JPG)
-- ![bushing img2](img/img_bushing3.JPG)
 
 ---
 
