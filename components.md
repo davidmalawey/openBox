@@ -3,7 +3,7 @@ The purpose of Handybox is to benefit several types of projects with one standar
 I Hope you benefit from the concepts here - even without building any handybox designs you will find some techniques that save time in CAD, prototyping, wiring, or creating new concepts for designs.
 
 **Jump To Section**
-👉[EMT Parts](#emt-parts),[Large Box](#large-box),[DIN Mount](#din-mount), [Bushing](#bushing), [Reducer](#reducer), [Bearing Hub](#bearing-hub), [Covers](#covers), [Octagon Box](#octagon-box), [DC Socket](#dc-socket-adapter), [Liner](#liner)
+👉[EMT Parts](#emt-parts),[Large Box](#large-box),[DIN Mount](#din-mount), [Bushing](#bushing), [Reducer](#reducer), [Hub](#hub), [Covers](#covers), [Octagon Box](#octagon-box), [DC Socket](#dc-socket-adapter), [Liner](#liner)
 
 ## EMT Parts
 My favorite EMT components are shared in the video below.  There are hundreds of COTS parts available, but these are my recommended choices for connecting the electrical boxes to steel EMT conduit for maximum versatilty with a simplified collection of key parts.  I made several visits to the hardware store, examined the parts for high value and strength, utility, matching threads, and tried them out.  This video is the summarized results!
@@ -50,7 +50,7 @@ The next photos show the reducer used in assembly.  (left) you can pass a 6mm sh
 - ![img perpendicularity](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/db0eed128355d71af3a27b6074d867ea/original.jpg)
 - ![img load bearing](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/220be329b34217bfc16bc8b06a401091/original.jpg)
 
-## Bearing Hub
+## Hub
 
 (2026) Hub_M6 is a new version derived from Hub0 and Hub1.  This module fits a size 606 bearing and clamps to the box with M6 fasteners and nuts (previous version uses M5).  It requires the holes of the box to be slightly enlarged to correct for the deformation in the hole pattern from the stamping process.  The handybox holes are reamed to 7.0mm and gently chamfered for deburring.
 
